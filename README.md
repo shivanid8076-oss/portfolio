@@ -85,7 +85,7 @@ src/
    ```
 
 4. **Open your browser**
-   Navigate to `http://localhost:5173`
+   Navigate to "https://shivani-dixit-portfolio.vercel.app/"
 
 ### Available Scripts
 
